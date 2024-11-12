@@ -1,1600 +1,1604 @@
-{
-    "Total": 319,
-    "Schools": [
-      {
-        "Scid": 1100868,
-        "Applied": 557,
-        "Name": "University of California (Los Angeles)"
-      },
-      {
-        "Scid": 1100866,
-        "Applied": 521,
-        "Name": "University of California (San Diego)"
-      },
-      {
-        "Scid": 1100359,
-        "Applied": 476,
-        "Name": "University of California (Davis)"
-      },
-      {
-        "Scid": 1100344,
-        "Applied": 468,
-        "Name": "University of California (Santa Barbara)"
-      },
-      {
-        "Scid": 1100454,
-        "Applied": 465,
-        "Name": "University of California (Irvine)"
-      },
-      {
-        "Scid": 1100510,
-        "Applied": 372,
-        "Name": "Stanford University"
-      },
-      {
-        "Scid": 1100917,
-        "Applied": 369,
-        "Name": "University of Southern California"
-      },
-      {
-        "Scid": 1100658,
-        "Applied": 355,
-        "Name": "University of California (Santa Cruz)"
-      },
-      {
-        "Scid": 2100285,
-        "Applied": 337,
-        "Name": "University of Michigan"
-      },
-      {
-        "Scid": 1100729,
-        "Applied": 279,
-        "Name": "University of Illinois at Urbana-Champaign"
-      },
-      {
-        "Scid": 1100490,
-        "Applied": 260,
-        "Name": "University of Washington (Seattle Campus)"
-      },
-      {
-        "Scid": 1100264,
-        "Applied": 259,
-        "Name": "Carnegie Mellon University"
-      },
-      {
-        "Scid": 1100516,
-        "Applied": 259,
-        "Name": "Cornell University"
-      },
-      {
-        "Scid": 2800070,
-        "Applied": 258,
-        "Name": "Purdue University (Main Campus)"
-      },
-      {
-        "Scid": 1100110,
-        "Applied": 247,
-        "Name": "University of Pennsylvania"
-      },
-      {
-        "Scid": 1100376,
-        "Applied": 237,
-        "Name": "California Polytechnic State University (San Luis Obispo)"
-      },
-      {
-        "Scid": 1100787,
-        "Applied": 223,
-        "Name": "Duke University"
-      },
-      {
-        "Scid": 2400089,
-        "Applied": 214,
-        "Name": "Georgia Institute of Technology"
-      },
-      {
-        "Scid": 3000453,
-        "Applied": 214,
-        "Name": "Columbia University"
-      },
-      {
-        "Scid": 2800124,
-        "Applied": 212,
-        "Name": "Northwestern University"
-      },
-      {
-        "Scid": 2100366,
-        "Applied": 211,
-        "Name": "Northeastern University"
-      },
-      {
-        "Scid": 1100494,
-        "Applied": 202,
-        "Name": "San Jose State University"
-      },
-      {
-        "Scid": 1100652,
-        "Applied": 202,
-        "Name": "University of California (Riverside)"
-      },
-      {
-        "Scid": 1100243,
-        "Applied": 200,
-        "Name": "Massachusetts Institute of Technology"
-      },
-      {
-        "Scid": 2100353,
-        "Applied": 191,
-        "Name": "Harvard University"
-      },
-      {
-        "Scid": 1100307,
-        "Applied": 189,
-        "Name": "Yale University"
-      },
-      {
-        "Scid": 2100345,
-        "Applied": 187,
-        "Name": "New York University"
-      },
-      {
-        "Scid": 1100217,
-        "Applied": 186,
-        "Name": "Brown University"
-      },
-      {
-        "Scid": 2800032,
-        "Applied": 181,
-        "Name": "Washington University in St. Louis"
-      },
-      {
-        "Scid": 1100160,
-        "Applied": 176,
-        "Name": "Princeton University"
-      },
-      {
-        "Scid": 1100455,
-        "Applied": 170,
-        "Name": "Rice University"
-      },
-      {
-        "Scid": 2400120,
-        "Applied": 163,
-        "Name": "Johns Hopkins University"
-      },
-      {
-        "Scid": 1100505,
-        "Applied": 161,
-        "Name": "Santa Clara University"
-      },
-      {
-        "Scid": 1100872,
-        "Applied": 157,
-        "Name": "Arizona State University (Tempe)"
-      },
-      {
-        "Scid": 1100517,
-        "Applied": 155,
-        "Name": "The University of Texas at Austin"
-      },
-      {
-        "Scid": 1100198,
-        "Applied": 149,
-        "Name": "Boston University"
-      },
-      {
-        "Scid": 1100713,
-        "Applied": 146,
-        "Name": "Case Western Reserve University"
-      },
-      {
-        "Scid": 2600025,
-        "Applied": 122,
-        "Name": "Vanderbilt University"
-      },
-      {
-        "Scid": 1100422,
-        "Applied": 115,
-        "Name": "California Institute of Technology"
-      },
-      {
-        "Scid": 3000638,
-        "Applied": 115,
-        "Name": "University of California (Merced)"
-      },
-      {
-        "Scid": 1100804,
-        "Applied": 114,
-        "Name": "Emory University"
-      },
-      {
-        "Scid": 2400206,
-        "Applied": 94,
-        "Name": "University of Maryland (College Park)"
-      },
-      {
-        "Scid": 2800014,
-        "Applied": 94,
-        "Name": "University of Wisconsin (Madison)"
-      },
-      {
-        "Scid": 2100230,
-        "Applied": 93,
-        "Name": "University of Chicago"
-      },
-      {
-        "Scid": 1100583,
-        "Applied": 85,
-        "Name": "Harvey Mudd College"
-      },
-      {
-        "Scid": 2100311,
-        "Applied": 85,
-        "Name": "Dartmouth College"
-      },
-      {
-        "Scid": 1100701,
-        "Applied": 82,
-        "Name": "San Diego State University"
-      },
-      {
-        "Scid": 2600152,
-        "Applied": 78,
-        "Name": "Pomona College"
-      },
-      {
-        "Scid": 2600068,
-        "Applied": 74,
-        "Name": "University of North Carolina at Chapel Hill"
-      },
-      {
-        "Scid": 1100851,
-        "Applied": 69,
-        "Name": "California State Polytechnic University (Pomona)"
-      },
-      {
-        "Scid": 1100089,
-        "Applied": 67,
-        "Name": "Rensselaer Polytechnic Institute"
-      },
-      {
-        "Scid": 2100315,
-        "Applied": 67,
-        "Name": "Drexel University"
-      },
-      {
-        "Scid": 1100209,
-        "Applied": 65,
-        "Name": "Tufts University"
-      },
-      {
-        "Scid": 1100973,
-        "Applied": 55,
-        "Name": "Georgetown University"
-      },
-      {
-        "Scid": 1100101,
-        "Applied": 49,
-        "Name": "Penn State University (University Park)"
-      },
-      {
-        "Scid": 2600034,
-        "Applied": 46,
-        "Name": "University of Virginia (Main Campus)"
-      },
-      {
-        "Scid": 1100741,
-        "Applied": 44,
-        "Name": "University of Minnesota (Twin Cities)"
-      },
-      {
-        "Scid": 1100250,
-        "Applied": 42,
-        "Name": "University of Massachusetts (Amherst)"
-      },
-      {
-        "Scid": 1100166,
-        "Applied": 37,
-        "Name": "University of Rochester"
-      },
-      {
-        "Scid": 1100196,
-        "Applied": 33,
-        "Name": "Boston College"
-      },
-      {
-        "Scid": 1100912,
-        "Applied": 32,
-        "Name": "University of San Francisco"
-      },
-      {
-        "Scid": 2800154,
-        "Applied": 30,
-        "Name": "University of Colorado Boulder"
-      },
-      {
-        "Scid": 2800128,
-        "Applied": 29,
-        "Name": "The Ohio State University"
-      },
-      {
-        "Scid": 1100133,
-        "Applied": 28,
-        "Name": "University of Pittsburgh (Pittsburgh)"
-      },
-      {
-        "Scid": 1100179,
-        "Applied": 28,
-        "Name": "Swarthmore College"
-      },
-      {
-        "Scid": 1100292,
-        "Applied": 28,
-        "Name": "Williams College"
-      },
-      {
-        "Scid": 1100434,
-        "Applied": 27,
-        "Name": "Claremont McKenna College"
-      },
-      {
-        "Scid": 1100545,
-        "Applied": 27,
-        "Name": "Indiana University (Bloomington)"
-      },
-      {
-        "Scid": 1100327,
-        "Applied": 26,
-        "Name": "California State University (Long Beach)"
-      },
-      {
-        "Scid": 1100502,
-        "Applied": 25,
-        "Name": "San Francisco State University"
-      },
-      {
-        "Scid": 1100847,
-        "Applied": 24,
-        "Name": "Baylor University"
-      },
-      {
-        "Scid": 2400217,
-        "Applied": 24,
-        "Name": "George Washington University"
-      },
-      {
-        "Scid": 1100038,
-        "Applied": 23,
-        "Name": "Amherst College"
-      },
-      {
-        "Scid": 1100157,
-        "Applied": 22,
-        "Name": "Rochester Institute of Technology"
-      },
-      {
-        "Scid": 1100491,
-        "Applied": 21,
-        "Name": "Reed College"
-      },
-      {
-        "Scid": 3000311,
-        "Applied": 21,
-        "Name": "Rutgers University (New Brunswick)"
-      },
-      {
-        "Scid": 6000229,
-        "Applied": 21,
-        "Name": "University College London"
-      },
-      {
-        "Scid": 1100252,
-        "Applied": 20,
-        "Name": "Wellesley College"
-      },
-      {
-        "Scid": 1100479,
-        "Applied": 20,
-        "Name": "Loyola Marymount University"
-      },
-      {
-        "Scid": 1100573,
-        "Applied": 20,
-        "Name": "Imperial College London"
-      },
-      {
-        "Scid": 6000240,
-        "Applied": 20,
-        "Name": "University of Toronto"
-      },
-      {
-        "Scid": 2800092,
-        "Applied": 19,
-        "Name": "University of Notre Dame"
-      },
-      {
-        "Scid": 1100134,
-        "Applied": 18,
-        "Name": "Stony Brook University"
-      },
-      {
-        "Scid": 1100496,
-        "Applied": 18,
-        "Name": "Scripps College"
-      },
-      {
-        "Scid": 1100620,
-        "Applied": 18,
-        "Name": "Rose-Hulman Institute of Technology"
-      },
-      {
-        "Scid": 1100904,
-        "Applied": 17,
-        "Name": "Pitzer College"
-      },
-      {
-        "Scid": 1100905,
-        "Applied": 17,
-        "Name": "Occidental College"
-      },
-      {
-        "Scid": 1100467,
-        "Applied": 16,
-        "Name": "University of Arizona"
-      },
-      {
-        "Scid": 1100168,
-        "Applied": 15,
-        "Name": "Barnard College"
-      },
-      {
-        "Scid": 1100485,
-        "Applied": 15,
-        "Name": "Texas A\u0026M University"
-      },
-      {
-        "Scid": 2600031,
-        "Applied": 15,
-        "Name": "Virginia Polytechnic Institute and State University"
-      },
-      {
-        "Scid": 6000232,
-        "Applied": 15,
-        "Name": "University of Cambridge"
-      },
-      {
-        "Scid": 1100265,
-        "Applied": 14,
-        "Name": "Wesleyan University"
-      },
-      {
-        "Scid": 1100452,
-        "Applied": 14,
-        "Name": "King's College London"
-      },
-      {
-        "Scid": 2600161,
-        "Applied": 14,
-        "Name": "California State University (Fullerton)"
-      },
-      {
-        "Scid": 6000223,
-        "Applied": 14,
-        "Name": "University of Oxford"
-      },
-      {
-        "Scid": 1100117,
-        "Applied": 13,
-        "Name": "Stevens Institute of Technology"
-      },
-      {
-        "Scid": 1100190,
-        "Applied": 13,
-        "Name": "Bowdoin College"
-      },
-      {
-        "Scid": 1100551,
-        "Applied": 13,
-        "Name": "University of the Pacific"
-      },
-      {
-        "Scid": 3000494,
-        "Applied": 13,
-        "Name": "The University of Edinburgh"
-      },
-      {
-        "Scid": 1100342,
-        "Applied": 12,
-        "Name": "Colorado School of Mines"
-      },
-      {
-        "Scid": 3000492,
-        "Applied": 12,
-        "Name": "University of St Andrews"
-      },
-      {
-        "Scid": 1100182,
-        "Applied": 11,
-        "Name": "Syracuse University"
-      },
-      {
-        "Scid": 1100274,
-        "Applied": 11,
-        "Name": "Middlebury College"
-      },
-      {
-        "Scid": 1100687,
-        "Applied": 11,
-        "Name": "University of Florida"
-      },
-      {
-        "Scid": 1100812,
-        "Applied": 11,
-        "Name": "University of Miami"
-      },
-      {
-        "Scid": 1100929,
-        "Applied": 11,
-        "Name": "Fordham University"
-      },
-      {
-        "Scid": 2600059,
-        "Applied": 11,
-        "Name": "William \u0026 Mary"
-      },
-      {
-        "Scid": 6000215,
-        "Applied": 11,
-        "Name": "The University of Warwick"
-      },
-      {
-        "Scid": 1100296,
-        "Applied": 10,
-        "Name": "Colby College"
-      },
-      {
-        "Scid": 1100855,
-        "Applied": 10,
-        "Name": "California State University (Los Angeles)"
-      },
-      {
-        "Scid": 2100218,
-        "Applied": 10,
-        "Name": "Carleton College"
-      },
-      {
-        "Scid": 1100953,
-        "Applied": 9,
-        "Name": "University of Waterloo"
-      },
-      {
-        "Scid": 1100984,
-        "Applied": 9,
-        "Name": "University of British Columbia"
-      },
-      {
-        "Scid": 1101046,
-        "Applied": 9,
-        "Name": "The University of Texas at Dallas"
-      },
-      {
-        "Scid": 2600018,
-        "Applied": 9,
-        "Name": "Tulane University of Louisiana"
-      },
-      {
-        "Scid": 6000213,
-        "Applied": 9,
-        "Name": "The London School of Economics and Political Science"
-      },
-      {
-        "Scid": 1100082,
-        "Applied": 8,
-        "Name": "Sarah Lawrence College"
-      },
-      {
-        "Scid": 1100184,
-        "Applied": 8,
-        "Name": "Bentley University"
-      },
-      {
-        "Scid": 1100371,
-        "Applied": 8,
-        "Name": "Chapman University"
-      },
-      {
-        "Scid": 2100327,
-        "Applied": 8,
-        "Name": "Hofstra University"
-      },
-      {
-        "Scid": 2100362,
-        "Applied": 8,
-        "Name": "Brandeis University"
-      },
-      {
-        "Scid": 2400012,
-        "Applied": 8,
-        "Name": "American University"
-      },
-      {
-        "Scid": 5000176,
-        "Applied": 8,
-        "Name": "Oxford College of Emory University"
-      },
-      {
-        "Scid": 1100560,
-        "Applied": 7,
-        "Name": "University of Missouri (Kansas City)"
-      },
-      {
-        "Scid": 1100574,
-        "Applied": 7,
-        "Name": "California State University (Fresno)"
-      },
-      {
-        "Scid": 1100600,
-        "Applied": 7,
-        "Name": "University of San Diego"
-      },
-      {
-        "Scid": 2800119,
-        "Applied": 7,
-        "Name": "Saint Louis University"
-      },
-      {
-        "Scid": 3000312,
-        "Applied": 7,
-        "Name": "Rutgers University (Newark)"
-      },
-      {
-        "Scid": 1100059,
-        "Applied": 6,
-        "Name": "Babson College"
-      },
-      {
-        "Scid": 1100230,
-        "Applied": 6,
-        "Name": "Vassar College"
-      },
-      {
-        "Scid": 1100297,
-        "Applied": 6,
-        "Name": "Worcester Polytechnic Institute"
-      },
-      {
-        "Scid": 1100333,
-        "Applied": 6,
-        "Name": "California State University (Sacramento)"
-      },
-      {
-        "Scid": 1100749,
-        "Applied": 6,
-        "Name": "Grinnell College"
-      },
-      {
-        "Scid": 1100897,
-        "Applied": 6,
-        "Name": "Pepperdine University"
-      },
-      {
-        "Scid": 1100987,
-        "Applied": 6,
-        "Name": "McGill University"
-      },
-      {
-        "Scid": 2600038,
-        "Applied": 6,
-        "Name": "Wake Forest University"
-      },
-      {
-        "Scid": 1100408,
-        "Applied": 5,
-        "Name": "University of Denver"
-      },
-      {
-        "Scid": 1100481,
-        "Applied": 5,
-        "Name": "University of Oregon"
-      },
-      {
-        "Scid": 2800089,
-        "Applied": 5,
-        "Name": "Michigan State University"
-      },
-      {
-        "Scid": 3000566,
-        "Applied": 5,
-        "Name": "Olin College of Engineering"
-      },
-      {
-        "Scid": 6000228,
-        "Applied": 5,
-        "Name": "The University of Manchester"
-      },
-      {
-        "Scid": 8000074,
-        "Applied": 5,
-        "Name": "California Northstate University"
-      },
-      {
-        "Scid": 1100103,
-        "Applied": 4,
-        "Name": "Smith College"
-      },
-      {
-        "Scid": 1100115,
-        "Applied": 4,
-        "Name": "Rhode Island School of Design"
-      },
-      {
-        "Scid": 1100298,
-        "Applied": 4,
-        "Name": "Colgate University"
-      },
-      {
-        "Scid": 1100547,
-        "Applied": 4,
-        "Name": "Florida State University"
-      },
-      {
-        "Scid": 1100781,
-        "Applied": 4,
-        "Name": "Haverford College"
-      },
-      {
-        "Scid": 1100876,
-        "Applied": 4,
-        "Name": "University of Hawaii at Manoa"
-      },
-      {
-        "Scid": 1100922,
-        "Applied": 4,
-        "Name": "Whittier College"
-      },
-      {
-        "Scid": 2600028,
-        "Applied": 4,
-        "Name": "Virginia Commonwealth University"
-      },
-      {
-        "Scid": 2800141,
-        "Applied": 4,
-        "Name": "New Jersey Institute of Technology"
-      },
-      {
-        "Scid": 4001863,
-        "Applied": 4,
-        "Name": "Arizona State University (Polytechnic)"
-      },
-      {
-        "Scid": 1100099,
-        "Applied": 3,
-        "Name": "Skidmore College"
-      },
-      {
-        "Scid": 1100158,
-        "Applied": 3,
-        "Name": "Pratt Institute"
-      },
-      {
-        "Scid": 1100189,
-        "Applied": 3,
-        "Name": "Temple University"
-      },
-      {
-        "Scid": 1100323,
-        "Applied": 3,
-        "Name": "Mount Holyoke College"
-      },
-      {
-        "Scid": 1100373,
-        "Applied": 3,
-        "Name": "Cal Poly Humboldt"
-      },
-      {
-        "Scid": 1100423,
-        "Applied": 3,
-        "Name": "University of Utah"
-      },
-      {
-        "Scid": 1100474,
-        "Applied": 3,
-        "Name": "University of Oklahoma"
-      },
-      {
-        "Scid": 1100523,
-        "Applied": 3,
-        "Name": "Lehigh University"
-      },
-      {
-        "Scid": 1100603,
-        "Applied": 3,
-        "Name": "California State University (Bakersfield)"
-      },
-      {
-        "Scid": 1100668,
-        "Applied": 3,
-        "Name": "Oregon State University"
-      },
-      {
-        "Scid": 1100858,
-        "Applied": 3,
-        "Name": "California State University (Chico)"
-      },
-      {
-        "Scid": 2100309,
-        "Applied": 3,
-        "Name": "University of Connecticut"
-      },
-      {
-        "Scid": 2100323,
-        "Applied": 3,
-        "Name": "Hamilton College"
-      },
-      {
-        "Scid": 2400004,
-        "Applied": 3,
-        "Name": "University of Alabama at Birmingham"
-      },
-      {
-        "Scid": 2400107,
-        "Applied": 3,
-        "Name": "Florida Atlantic University"
-      },
-      {
-        "Scid": 2600103,
-        "Applied": 3,
-        "Name": "St. Andrews University"
-      },
-      {
-        "Scid": 2600163,
-        "Applied": 3,
-        "Name": "University of Colorado Denver"
-      },
-      {
-        "Scid": 2800107,
-        "Applied": 3,
-        "Name": "Macalester College"
-      },
-      {
-        "Scid": 3000310,
-        "Applied": 3,
-        "Name": "Rutgers University (Camden)"
-      },
-      {
-        "Scid": 3000400,
-        "Applied": 3,
-        "Name": "Penn State University (Abington)"
-      },
-      {
-        "Scid": 4001681,
-        "Applied": 3,
-        "Name": "Augusta University"
-      },
-      {
-        "Scid": 6000202,
-        "Applied": 3,
-        "Name": "University of Leeds"
-      },
-      {
-        "Scid": 1100165,
-        "Applied": 2,
-        "Name": "Bard College"
-      },
-      {
-        "Scid": 1100200,
-        "Applied": 2,
-        "Name": "The College of New Jersey"
-      },
-      {
-        "Scid": 1100211,
-        "Applied": 2,
-        "Name": "Union College"
-      },
-      {
-        "Scid": 1100247,
-        "Applied": 2,
-        "Name": "Washington \u0026 Jefferson College"
-      },
-      {
-        "Scid": 1100331,
-        "Applied": 2,
-        "Name": "Muhlenberg College"
-      },
-      {
-        "Scid": 1100363,
-        "Applied": 2,
-        "Name": "California State University (East Bay)"
-      },
-      {
-        "Scid": 1100388,
-        "Applied": 2,
-        "Name": "Willamette University"
-      },
-      {
-        "Scid": 1100416,
-        "Applied": 2,
-        "Name": "United States Air Force Academy"
-      },
-      {
-        "Scid": 1100456,
-        "Applied": 2,
-        "Name": "Gonzaga University"
-      },
-      {
-        "Scid": 1100458,
-        "Applied": 2,
-        "Name": "University of Nevada (Las Vegas)"
-      },
-      {
-        "Scid": 1100466,
-        "Applied": 2,
-        "Name": "Whitman College"
-      },
-      {
-        "Scid": 1100484,
-        "Applied": 2,
-        "Name": "University of Houston"
-      },
-      {
-        "Scid": 1100498,
-        "Applied": 2,
-        "Name": "Seattle University"
-      },
-      {
-        "Scid": 1100528,
-        "Applied": 2,
-        "Name": "Lafayette College"
-      },
-      {
-        "Scid": 1100538,
-        "Applied": 2,
-        "Name": "Loyola University Chicago"
-      },
-      {
-        "Scid": 1100593,
-        "Applied": 2,
-        "Name": "University of Puget Sound"
-      },
-      {
-        "Scid": 1100618,
-        "Applied": 2,
-        "Name": "Florida Institute of Technology"
-      },
-      {
-        "Scid": 1100675,
-        "Applied": 2,
-        "Name": "California Lutheran University"
-      },
-      {
-        "Scid": 1100722,
-        "Applied": 2,
-        "Name": "University of Georgia"
-      },
-      {
-        "Scid": 1100727,
-        "Applied": 2,
-        "Name": "University of Illinois at Chicago"
-      },
-      {
-        "Scid": 1100770,
-        "Applied": 2,
-        "Name": "Ithaca College"
-      },
-      {
-        "Scid": 1100958,
-        "Applied": 2,
-        "Name": "Saint Mary's College of California"
-      },
-      {
-        "Scid": 2100252,
-        "Applied": 2,
-        "Name": "Denison University"
-      },
-      {
-        "Scid": 2100253,
-        "Applied": 2,
-        "Name": "DePaul University"
-      },
-      {
-        "Scid": 2100359,
-        "Applied": 2,
-        "Name": "Emerson College"
-      },
-      {
-        "Scid": 2400006,
-        "Applied": 2,
-        "Name": "The University of Alabama"
-      },
-      {
-        "Scid": 2400066,
-        "Applied": 2,
-        "Name": "University of Central Florida"
-      },
-      {
-        "Scid": 2600043,
-        "Applied": 2,
-        "Name": "Washington and Lee University"
-      },
-      {
-        "Scid": 2600066,
-        "Applied": 2,
-        "Name": "North Carolina State University"
-      },
-      {
-        "Scid": 2600099,
-        "Applied": 2,
-        "Name": "University of Richmond"
-      },
-      {
-        "Scid": 2600118,
-        "Applied": 2,
-        "Name": "University of South Florida (Main Campus)"
-      },
-      {
-        "Scid": 2800093,
-        "Applied": 2,
-        "Name": "University of Missouri (St Louis)"
-      },
-      {
-        "Scid": 2800096,
-        "Applied": 2,
-        "Name": "Oberlin College"
-      },
-      {
-        "Scid": 2800111,
-        "Applied": 2,
-        "Name": "Purdue University Northwest"
-      },
-      {
-        "Scid": 3000468,
-        "Applied": 2,
-        "Name": "The King's College"
-      },
-      {
-        "Scid": 3000675,
-        "Applied": 2,
-        "Name": "University of Washington (Tacoma Campus)"
-      },
-      {
-        "Scid": 3000676,
-        "Applied": 2,
-        "Name": "University of Washington (Bothell Campus)"
-      },
-      {
-        "Scid": 4001849,
-        "Applied": 2,
-        "Name": "Arizona State University (West)"
-      },
-      {
-        "Scid": 6000128,
-        "Applied": 2,
-        "Name": "Sciences Po Paris"
-      },
-      {
-        "Scid": 6000160,
-        "Applied": 2,
-        "Name": "University of Auckland"
-      },
-      {
-        "Scid": 6000163,
-        "Applied": 2,
-        "Name": "Yale-NUS College"
-      },
-      {
-        "Scid": 6000206,
-        "Applied": 2,
-        "Name": "University of Birmingham"
-      },
-      {
-        "Scid": 6000210,
-        "Applied": 2,
-        "Name": "University of Bath"
-      },
-      {
-        "Scid": 6000212,
-        "Applied": 2,
-        "Name": "University of Glasgow"
-      },
-      {
-        "Scid": 6000274,
-        "Applied": 2,
-        "Name": "Duke Kunshan University"
-      },
-      {
-        "Scid": 6000385,
-        "Applied": 2,
-        "Name": "Tsinghua University"
-      },
-      {
-        "Scid": 1100006,
-        "Applied": 1,
-        "Name": "Adelphi University"
-      },
-      {
-        "Scid": 1100041,
-        "Applied": 1,
-        "Name": "St. Bonaventure University"
-      },
-      {
-        "Scid": 1100054,
-        "Applied": 1,
-        "Name": "St. John's University"
-      },
-      {
-        "Scid": 1100088,
-        "Applied": 1,
-        "Name": "Seton Hall University"
-      },
-      {
-        "Scid": 1100090,
-        "Applied": 1,
-        "Name": "Pace University (New York City)"
-      },
-      {
-        "Scid": 1100104,
-        "Applied": 1,
-        "Name": "Penn State University (Behrend)"
-      },
-      {
-        "Scid": 1100128,
-        "Applied": 1,
-        "Name": "SUNY at Albany"
-      },
-      {
-        "Scid": 1100131,
-        "Applied": 1,
-        "Name": "Binghamton University"
-      },
-      {
-        "Scid": 1100138,
-        "Applied": 1,
-        "Name": "SUNY Buffalo State University"
-      },
-      {
-        "Scid": 1100142,
-        "Applied": 1,
-        "Name": "SUNY College of Environmental Science and Forestry"
-      },
-      {
-        "Scid": 1100161,
-        "Applied": 1,
-        "Name": "SUNY at Purchase College"
-      },
-      {
-        "Scid": 1100163,
-        "Applied": 1,
-        "Name": "SUNY Polytechnic Institute"
-      },
-      {
-        "Scid": 1100176,
-        "Applied": 1,
-        "Name": "Bates College"
-      },
-      {
-        "Scid": 1100202,
-        "Applied": 1,
-        "Name": "Rosemont College"
-      },
-      {
-        "Scid": 1100203,
-        "Applied": 1,
-        "Name": "Trinity College"
-      },
-      {
-        "Scid": 1100219,
-        "Applied": 1,
-        "Name": "United States Military Academy at West Point"
-      },
-      {
-        "Scid": 1100234,
-        "Applied": 1,
-        "Name": "Bryn Mawr College"
-      },
-      {
-        "Scid": 1100235,
-        "Applied": 1,
-        "Name": "Bucknell University"
-      },
-      {
-        "Scid": 1100240,
-        "Applied": 1,
-        "Name": "University of Vermont"
-      },
-      {
-        "Scid": 1100242,
-        "Applied": 1,
-        "Name": "Villanova University"
-      },
-      {
-        "Scid": 1100255,
-        "Applied": 1,
-        "Name": "University of Massachusetts (Boston)"
-      },
-      {
-        "Scid": 1100294,
-        "Applied": 1,
-        "Name": "Clark University"
-      },
-      {
-        "Scid": 1100301,
-        "Applied": 1,
-        "Name": "The Cooper Union for the Advancement of Science and Art"
-      },
-      {
-        "Scid": 1100304,
-        "Applied": 1,
-        "Name": "Drew University"
-      },
-      {
-        "Scid": 1100340,
-        "Applied": 1,
-        "Name": "Art Center College of Design"
-      },
-      {
-        "Scid": 1100356,
-        "Applied": 1,
-        "Name": "University of Colorado (Colorado Springs)"
-      },
-      {
-        "Scid": 1100360,
-        "Applied": 1,
-        "Name": "Montana State University"
-      },
-      {
-        "Scid": 1100367,
-        "Applied": 1,
-        "Name": "Caldwell University"
-      },
-      {
-        "Scid": 1100380,
-        "Applied": 1,
-        "Name": "Colorado College"
-      },
-      {
-        "Scid": 1100415,
-        "Applied": 1,
-        "Name": "Westmont College"
-      },
-      {
-        "Scid": 1100417,
-        "Applied": 1,
-        "Name": "Durham University"
-      },
-      {
-        "Scid": 1100421,
-        "Applied": 1,
-        "Name": "University of Alaska Fairbanks"
-      },
-      {
-        "Scid": 1100433,
-        "Applied": 1,
-        "Name": "Washington State University"
-      },
-      {
-        "Scid": 1100475,
-        "Applied": 1,
-        "Name": "University of Tulsa"
-      },
-      {
-        "Scid": 1100488,
-        "Applied": 1,
-        "Name": "University of Portland"
-      },
-      {
-        "Scid": 1100514,
-        "Applied": 1,
-        "Name": "Southwestern University"
-      },
-      {
-        "Scid": 1100522,
-        "Applied": 1,
-        "Name": "Gettysburg College"
-      },
-      {
-        "Scid": 1100611,
-        "Applied": 1,
-        "Name": "Dominican University of California"
-      },
-      {
-        "Scid": 1100624,
-        "Applied": 1,
-        "Name": "College for Creative Studies"
-      },
-      {
-        "Scid": 1100633,
-        "Applied": 1,
-        "Name": "Davidson College"
-      },
-      {
-        "Scid": 1100655,
-        "Applied": 1,
-        "Name": "Texas A\u0026M University at Galveston"
-      },
-      {
-        "Scid": 1100731,
-        "Applied": 1,
-        "Name": "California College of the Arts"
-      },
-      {
-        "Scid": 1100757,
-        "Applied": 1,
-        "Name": "Illinois Institute of Technology"
-      },
-      {
-        "Scid": 1100766,
-        "Applied": 1,
-        "Name": "The Juilliard School"
-      },
-      {
-        "Scid": 1100772,
-        "Applied": 1,
-        "Name": "The New School"
-      },
-      {
-        "Scid": 1100785,
-        "Applied": 1,
-        "Name": "Howard University"
-      },
-      {
-        "Scid": 1100794,
-        "Applied": 1,
-        "Name": "Hampton University"
-      },
-      {
-        "Scid": 1100803,
-        "Applied": 1,
-        "Name": "George Mason University"
-      },
-      {
-        "Scid": 1100810,
-        "Applied": 1,
-        "Name": "University of New Mexico (Main Campus)"
-      },
-      {
-        "Scid": 1100811,
-        "Applied": 1,
-        "Name": "Louisiana State University"
-      },
-      {
-        "Scid": 1100820,
-        "Applied": 1,
-        "Name": "University of Maryland (Baltimore County)"
-      },
-      {
-        "Scid": 1100832,
-        "Applied": 1,
-        "Name": "Rowan University"
-      },
-      {
-        "Scid": 1100928,
-        "Applied": 1,
-        "Name": "Southern Methodist University"
-      },
-      {
-        "Scid": 2100202,
-        "Applied": 1,
-        "Name": "Beloit College"
-      },
-      {
-        "Scid": 2100292,
-        "Applied": 1,
-        "Name": "Northwestern College"
-      },
-      {
-        "Scid": 2100313,
-        "Applied": 1,
-        "Name": "CUNY City College"
-      },
-      {
-        "Scid": 2100341,
-        "Applied": 1,
-        "Name": "The New England Conservatory of Music"
-      },
-      {
-        "Scid": 2100372,
-        "Applied": 1,
-        "Name": "Augustana College"
-      },
-      {
-        "Scid": 2400074,
-        "Applied": 1,
-        "Name": "Clemson University"
-      },
-      {
-        "Scid": 2600079,
-        "Applied": 1,
-        "Name": "Nova Southeastern University"
-      },
-      {
-        "Scid": 2600098,
-        "Applied": 1,
-        "Name": "Rhodes College"
-      },
-      {
-        "Scid": 2600105,
-        "Applied": 1,
-        "Name": "St. John's College (Annapolis)"
-      },
-      {
-        "Scid": 2600114,
-        "Applied": 1,
-        "Name": "University of South Alabama"
-      },
-      {
-        "Scid": 2600130,
-        "Applied": 1,
-        "Name": "Spelman College"
-      },
-      {
-        "Scid": 2600142,
-        "Applied": 1,
-        "Name": "University of Delaware"
-      },
-      {
-        "Scid": 2800030,
-        "Applied": 1,
-        "Name": "Webster University"
-      },
-      {
-        "Scid": 2800031,
-        "Applied": 1,
-        "Name": "Wayne State University"
-      },
-      {
-        "Scid": 2800045,
-        "Applied": 1,
-        "Name": "University of Toledo"
-      },
-      {
-        "Scid": 2800071,
-        "Applied": 1,
-        "Name": "St. Olaf College"
-      },
-      {
-        "Scid": 2800081,
-        "Applied": 1,
-        "Name": "Lawrence University"
-      },
-      {
-        "Scid": 2800085,
-        "Applied": 1,
-        "Name": "University of Iowa"
-      },
-      {
-        "Scid": 2800088,
-        "Applied": 1,
-        "Name": "Milwaukee School of Engineering"
-      },
-      {
-        "Scid": 2800090,
-        "Applied": 1,
-        "Name": "University of Missouri (Columbia)"
-      },
-      {
-        "Scid": 2800102,
-        "Applied": 1,
-        "Name": "Iowa State University"
-      },
-      {
-        "Scid": 2800160,
-        "Applied": 1,
-        "Name": "Purdue University Fort Wayne"
-      },
-      {
-        "Scid": 3000090,
-        "Applied": 1,
-        "Name": "Champlain College"
-      },
-      {
-        "Scid": 3000459,
-        "Applied": 1,
-        "Name": "California State University (Monterey Bay)"
-      },
-      {
-        "Scid": 3000495,
-        "Applied": 1,
-        "Name": "Trinity College Dublin"
-      },
-      {
-        "Scid": 3000497,
-        "Applied": 1,
-        "Name": "The Chinese University of Hong Kong"
-      },
-      {
-        "Scid": 4000870,
-        "Applied": 1,
-        "Name": "Parsons Paris at The New School"
-      },
-      {
-        "Scid": 4001653,
-        "Applied": 1,
-        "Name": "University of Kent"
-      },
-      {
-        "Scid": 4001877,
-        "Applied": 1,
-        "Name": "Arizona State University (Downtown Phoenix)"
-      },
-      {
-        "Scid": 5000134,
-        "Applied": 1,
-        "Name": "University of Connecticut (Stamford)"
-      },
-      {
-        "Scid": 5000167,
-        "Applied": 1,
-        "Name": "University of South Florida (St Petersburg)"
-      },
-      {
-        "Scid": 5000346,
-        "Applied": 1,
-        "Name": "Oregon State University - Cascades"
-      },
-      {
-        "Scid": 6000193,
-        "Applied": 1,
-        "Name": "Kingston University London"
-      },
-      {
-        "Scid": 6000204,
-        "Applied": 1,
-        "Name": "University of Liverpool"
-      },
-      {
-        "Scid": 6000211,
-        "Applied": 1,
-        "Name": "University of Dundee"
-      },
-      {
-        "Scid": 6000219,
-        "Applied": 1,
-        "Name": "University of Southampton"
-      },
-      {
-        "Scid": 6000221,
-        "Applied": 1,
-        "Name": "University of Aberdeen"
-      },
-      {
-        "Scid": 6000225,
-        "Applied": 1,
-        "Name": "University of Bristol"
-      },
-      {
-        "Scid": 6000276,
-        "Applied": 1,
-        "Name": "University of Groningen"
-      },
-      {
-        "Scid": 6000376,
-        "Applied": 1,
-        "Name": "University of Toronto Mississauga"
-      },
-      {
-        "Scid": 6000377,
-        "Applied": 1,
-        "Name": "University of Toronto Scarborough"
-      },
-      {
-        "Scid": 6000389,
-        "Applied": 1,
-        "Name": "City University of London"
-      },
-      {
-        "Scid": 7000257,
-        "Applied": 1,
-        "Name": "Ohlone College"
-      },
-      {
-        "Scid": 8000201,
-        "Applied": 1,
-        "Name": "National University of Singapore"
-      },
-      {
-        "Scid": 8000390,
-        "Applied": 1,
-        "Name": "Wageningen University and Research"
-      }
-    ]
-  }
+  {
+      "Total": 319,
+      "Schools": [
+        {
+          "Scid": 1100865,
+          "Name": "University of California (Berkeley)"
+        },
+        {
+          "Scid": 1100868,
+          "Applied": 557,
+          "Name": "University of California (Los Angeles)"
+        },
+        {
+          "Scid": 1100866,
+          "Applied": 521,
+          "Name": "University of California (San Diego)"
+        },
+        {
+          "Scid": 1100359,
+          "Applied": 476,
+          "Name": "University of California (Davis)"
+        },
+        {
+          "Scid": 1100344,
+          "Applied": 468,
+          "Name": "University of California (Santa Barbara)"
+        },
+        {
+          "Scid": 1100454,
+          "Applied": 465,
+          "Name": "University of California (Irvine)"
+        },
+        {
+          "Scid": 1100510,
+          "Applied": 372,
+          "Name": "Stanford University"
+        },
+        {
+          "Scid": 1100917,
+          "Applied": 369,
+          "Name": "University of Southern California"
+        },
+        {
+          "Scid": 1100658,
+          "Applied": 355,
+          "Name": "University of California (Santa Cruz)"
+        },
+        {
+          "Scid": 2100285,
+          "Applied": 337,
+          "Name": "University of Michigan"
+        },
+        {
+          "Scid": 1100729,
+          "Applied": 279,
+          "Name": "University of Illinois at Urbana-Champaign"
+        },
+        {
+          "Scid": 1100490,
+          "Applied": 260,
+          "Name": "University of Washington (Seattle Campus)"
+        },
+        {
+          "Scid": 1100264,
+          "Applied": 259,
+          "Name": "Carnegie Mellon University"
+        },
+        {
+          "Scid": 1100516,
+          "Applied": 259,
+          "Name": "Cornell University"
+        },
+        {
+          "Scid": 2800070,
+          "Applied": 258,
+          "Name": "Purdue University (Main Campus)"
+        },
+        {
+          "Scid": 1100110,
+          "Applied": 247,
+          "Name": "University of Pennsylvania"
+        },
+        {
+          "Scid": 1100376,
+          "Applied": 237,
+          "Name": "California Polytechnic State University (San Luis Obispo)"
+        },
+        {
+          "Scid": 1100787,
+          "Applied": 223,
+          "Name": "Duke University"
+        },
+        {
+          "Scid": 2400089,
+          "Applied": 214,
+          "Name": "Georgia Institute of Technology"
+        },
+        {
+          "Scid": 3000453,
+          "Applied": 214,
+          "Name": "Columbia University"
+        },
+        {
+          "Scid": 2800124,
+          "Applied": 212,
+          "Name": "Northwestern University"
+        },
+        {
+          "Scid": 2100366,
+          "Applied": 211,
+          "Name": "Northeastern University"
+        },
+        {
+          "Scid": 1100494,
+          "Applied": 202,
+          "Name": "San Jose State University"
+        },
+        {
+          "Scid": 1100652,
+          "Applied": 202,
+          "Name": "University of California (Riverside)"
+        },
+        {
+          "Scid": 1100243,
+          "Applied": 200,
+          "Name": "Massachusetts Institute of Technology"
+        },
+        {
+          "Scid": 2100353,
+          "Applied": 191,
+          "Name": "Harvard University"
+        },
+        {
+          "Scid": 1100307,
+          "Applied": 189,
+          "Name": "Yale University"
+        },
+        {
+          "Scid": 2100345,
+          "Applied": 187,
+          "Name": "New York University"
+        },
+        {
+          "Scid": 1100217,
+          "Applied": 186,
+          "Name": "Brown University"
+        },
+        {
+          "Scid": 2800032,
+          "Applied": 181,
+          "Name": "Washington University in St. Louis"
+        },
+        {
+          "Scid": 1100160,
+          "Applied": 176,
+          "Name": "Princeton University"
+        },
+        {
+          "Scid": 1100455,
+          "Applied": 170,
+          "Name": "Rice University"
+        },
+        {
+          "Scid": 2400120,
+          "Applied": 163,
+          "Name": "Johns Hopkins University"
+        },
+        {
+          "Scid": 1100505,
+          "Applied": 161,
+          "Name": "Santa Clara University"
+        },
+        {
+          "Scid": 1100872,
+          "Applied": 157,
+          "Name": "Arizona State University (Tempe)"
+        },
+        {
+          "Scid": 1100517,
+          "Applied": 155,
+          "Name": "The University of Texas at Austin"
+        },
+        {
+          "Scid": 1100198,
+          "Applied": 149,
+          "Name": "Boston University"
+        },
+        {
+          "Scid": 1100713,
+          "Applied": 146,
+          "Name": "Case Western Reserve University"
+        },
+        {
+          "Scid": 2600025,
+          "Applied": 122,
+          "Name": "Vanderbilt University"
+        },
+        {
+          "Scid": 1100422,
+          "Applied": 115,
+          "Name": "California Institute of Technology"
+        },
+        {
+          "Scid": 3000638,
+          "Applied": 115,
+          "Name": "University of California (Merced)"
+        },
+        {
+          "Scid": 1100804,
+          "Applied": 114,
+          "Name": "Emory University"
+        },
+        {
+          "Scid": 2400206,
+          "Applied": 94,
+          "Name": "University of Maryland (College Park)"
+        },
+        {
+          "Scid": 2800014,
+          "Applied": 94,
+          "Name": "University of Wisconsin (Madison)"
+        },
+        {
+          "Scid": 2100230,
+          "Applied": 93,
+          "Name": "University of Chicago"
+        },
+        {
+          "Scid": 1100583,
+          "Applied": 85,
+          "Name": "Harvey Mudd College"
+        },
+        {
+          "Scid": 2100311,
+          "Applied": 85,
+          "Name": "Dartmouth College"
+        },
+        {
+          "Scid": 1100701,
+          "Applied": 82,
+          "Name": "San Diego State University"
+        },
+        {
+          "Scid": 2600152,
+          "Applied": 78,
+          "Name": "Pomona College"
+        },
+        {
+          "Scid": 2600068,
+          "Applied": 74,
+          "Name": "University of North Carolina at Chapel Hill"
+        },
+        {
+          "Scid": 1100851,
+          "Applied": 69,
+          "Name": "California State Polytechnic University (Pomona)"
+        },
+        {
+          "Scid": 1100089,
+          "Applied": 67,
+          "Name": "Rensselaer Polytechnic Institute"
+        },
+        {
+          "Scid": 2100315,
+          "Applied": 67,
+          "Name": "Drexel University"
+        },
+        {
+          "Scid": 1100209,
+          "Applied": 65,
+          "Name": "Tufts University"
+        },
+        {
+          "Scid": 1100973,
+          "Applied": 55,
+          "Name": "Georgetown University"
+        },
+        {
+          "Scid": 1100101,
+          "Applied": 49,
+          "Name": "Penn State University (University Park)"
+        },
+        {
+          "Scid": 2600034,
+          "Applied": 46,
+          "Name": "University of Virginia (Main Campus)"
+        },
+        {
+          "Scid": 1100741,
+          "Applied": 44,
+          "Name": "University of Minnesota (Twin Cities)"
+        },
+        {
+          "Scid": 1100250,
+          "Applied": 42,
+          "Name": "University of Massachusetts (Amherst)"
+        },
+        {
+          "Scid": 1100166,
+          "Applied": 37,
+          "Name": "University of Rochester"
+        },
+        {
+          "Scid": 1100196,
+          "Applied": 33,
+          "Name": "Boston College"
+        },
+        {
+          "Scid": 1100912,
+          "Applied": 32,
+          "Name": "University of San Francisco"
+        },
+        {
+          "Scid": 2800154,
+          "Applied": 30,
+          "Name": "University of Colorado Boulder"
+        },
+        {
+          "Scid": 2800128,
+          "Applied": 29,
+          "Name": "The Ohio State University"
+        },
+        {
+          "Scid": 1100133,
+          "Applied": 28,
+          "Name": "University of Pittsburgh (Pittsburgh)"
+        },
+        {
+          "Scid": 1100179,
+          "Applied": 28,
+          "Name": "Swarthmore College"
+        },
+        {
+          "Scid": 1100292,
+          "Applied": 28,
+          "Name": "Williams College"
+        },
+        {
+          "Scid": 1100434,
+          "Applied": 27,
+          "Name": "Claremont McKenna College"
+        },
+        {
+          "Scid": 1100545,
+          "Applied": 27,
+          "Name": "Indiana University (Bloomington)"
+        },
+        {
+          "Scid": 1100327,
+          "Applied": 26,
+          "Name": "California State University (Long Beach)"
+        },
+        {
+          "Scid": 1100502,
+          "Applied": 25,
+          "Name": "San Francisco State University"
+        },
+        {
+          "Scid": 1100847,
+          "Applied": 24,
+          "Name": "Baylor University"
+        },
+        {
+          "Scid": 2400217,
+          "Applied": 24,
+          "Name": "George Washington University"
+        },
+        {
+          "Scid": 1100038,
+          "Applied": 23,
+          "Name": "Amherst College"
+        },
+        {
+          "Scid": 1100157,
+          "Applied": 22,
+          "Name": "Rochester Institute of Technology"
+        },
+        {
+          "Scid": 1100491,
+          "Applied": 21,
+          "Name": "Reed College"
+        },
+        {
+          "Scid": 3000311,
+          "Applied": 21,
+          "Name": "Rutgers University (New Brunswick)"
+        },
+        {
+          "Scid": 6000229,
+          "Applied": 21,
+          "Name": "University College London"
+        },
+        {
+          "Scid": 1100252,
+          "Applied": 20,
+          "Name": "Wellesley College"
+        },
+        {
+          "Scid": 1100479,
+          "Applied": 20,
+          "Name": "Loyola Marymount University"
+        },
+        {
+          "Scid": 1100573,
+          "Applied": 20,
+          "Name": "Imperial College London"
+        },
+        {
+          "Scid": 6000240,
+          "Applied": 20,
+          "Name": "University of Toronto"
+        },
+        {
+          "Scid": 2800092,
+          "Applied": 19,
+          "Name": "University of Notre Dame"
+        },
+        {
+          "Scid": 1100134,
+          "Applied": 18,
+          "Name": "Stony Brook University"
+        },
+        {
+          "Scid": 1100496,
+          "Applied": 18,
+          "Name": "Scripps College"
+        },
+        {
+          "Scid": 1100620,
+          "Applied": 18,
+          "Name": "Rose-Hulman Institute of Technology"
+        },
+        {
+          "Scid": 1100904,
+          "Applied": 17,
+          "Name": "Pitzer College"
+        },
+        {
+          "Scid": 1100905,
+          "Applied": 17,
+          "Name": "Occidental College"
+        },
+        {
+          "Scid": 1100467,
+          "Applied": 16,
+          "Name": "University of Arizona"
+        },
+        {
+          "Scid": 1100168,
+          "Applied": 15,
+          "Name": "Barnard College"
+        },
+        {
+          "Scid": 1100485,
+          "Applied": 15,
+          "Name": "Texas A\u0026M University"
+        },
+        {
+          "Scid": 2600031,
+          "Applied": 15,
+          "Name": "Virginia Polytechnic Institute and State University"
+        },
+        {
+          "Scid": 6000232,
+          "Applied": 15,
+          "Name": "University of Cambridge"
+        },
+        {
+          "Scid": 1100265,
+          "Applied": 14,
+          "Name": "Wesleyan University"
+        },
+        {
+          "Scid": 1100452,
+          "Applied": 14,
+          "Name": "King's College London"
+        },
+        {
+          "Scid": 2600161,
+          "Applied": 14,
+          "Name": "California State University (Fullerton)"
+        },
+        {
+          "Scid": 6000223,
+          "Applied": 14,
+          "Name": "University of Oxford"
+        },
+        {
+          "Scid": 1100117,
+          "Applied": 13,
+          "Name": "Stevens Institute of Technology"
+        },
+        {
+          "Scid": 1100190,
+          "Applied": 13,
+          "Name": "Bowdoin College"
+        },
+        {
+          "Scid": 1100551,
+          "Applied": 13,
+          "Name": "University of the Pacific"
+        },
+        {
+          "Scid": 3000494,
+          "Applied": 13,
+          "Name": "The University of Edinburgh"
+        },
+        {
+          "Scid": 1100342,
+          "Applied": 12,
+          "Name": "Colorado School of Mines"
+        },
+        {
+          "Scid": 3000492,
+          "Applied": 12,
+          "Name": "University of St Andrews"
+        },
+        {
+          "Scid": 1100182,
+          "Applied": 11,
+          "Name": "Syracuse University"
+        },
+        {
+          "Scid": 1100274,
+          "Applied": 11,
+          "Name": "Middlebury College"
+        },
+        {
+          "Scid": 1100687,
+          "Applied": 11,
+          "Name": "University of Florida"
+        },
+        {
+          "Scid": 1100812,
+          "Applied": 11,
+          "Name": "University of Miami"
+        },
+        {
+          "Scid": 1100929,
+          "Applied": 11,
+          "Name": "Fordham University"
+        },
+        {
+          "Scid": 2600059,
+          "Applied": 11,
+          "Name": "William \u0026 Mary"
+        },
+        {
+          "Scid": 6000215,
+          "Applied": 11,
+          "Name": "The University of Warwick"
+        },
+        {
+          "Scid": 1100296,
+          "Applied": 10,
+          "Name": "Colby College"
+        },
+        {
+          "Scid": 1100855,
+          "Applied": 10,
+          "Name": "California State University (Los Angeles)"
+        },
+        {
+          "Scid": 2100218,
+          "Applied": 10,
+          "Name": "Carleton College"
+        },
+        {
+          "Scid": 1100953,
+          "Applied": 9,
+          "Name": "University of Waterloo"
+        },
+        {
+          "Scid": 1100984,
+          "Applied": 9,
+          "Name": "University of British Columbia"
+        },
+        {
+          "Scid": 1101046,
+          "Applied": 9,
+          "Name": "The University of Texas at Dallas"
+        },
+        {
+          "Scid": 2600018,
+          "Applied": 9,
+          "Name": "Tulane University of Louisiana"
+        },
+        {
+          "Scid": 6000213,
+          "Applied": 9,
+          "Name": "The London School of Economics and Political Science"
+        },
+        {
+          "Scid": 1100082,
+          "Applied": 8,
+          "Name": "Sarah Lawrence College"
+        },
+        {
+          "Scid": 1100184,
+          "Applied": 8,
+          "Name": "Bentley University"
+        },
+        {
+          "Scid": 1100371,
+          "Applied": 8,
+          "Name": "Chapman University"
+        },
+        {
+          "Scid": 2100327,
+          "Applied": 8,
+          "Name": "Hofstra University"
+        },
+        {
+          "Scid": 2100362,
+          "Applied": 8,
+          "Name": "Brandeis University"
+        },
+        {
+          "Scid": 2400012,
+          "Applied": 8,
+          "Name": "American University"
+        },
+        {
+          "Scid": 5000176,
+          "Applied": 8,
+          "Name": "Oxford College of Emory University"
+        },
+        {
+          "Scid": 1100560,
+          "Applied": 7,
+          "Name": "University of Missouri (Kansas City)"
+        },
+        {
+          "Scid": 1100574,
+          "Applied": 7,
+          "Name": "California State University (Fresno)"
+        },
+        {
+          "Scid": 1100600,
+          "Applied": 7,
+          "Name": "University of San Diego"
+        },
+        {
+          "Scid": 2800119,
+          "Applied": 7,
+          "Name": "Saint Louis University"
+        },
+        {
+          "Scid": 3000312,
+          "Applied": 7,
+          "Name": "Rutgers University (Newark)"
+        },
+        {
+          "Scid": 1100059,
+          "Applied": 6,
+          "Name": "Babson College"
+        },
+        {
+          "Scid": 1100230,
+          "Applied": 6,
+          "Name": "Vassar College"
+        },
+        {
+          "Scid": 1100297,
+          "Applied": 6,
+          "Name": "Worcester Polytechnic Institute"
+        },
+        {
+          "Scid": 1100333,
+          "Applied": 6,
+          "Name": "California State University (Sacramento)"
+        },
+        {
+          "Scid": 1100749,
+          "Applied": 6,
+          "Name": "Grinnell College"
+        },
+        {
+          "Scid": 1100897,
+          "Applied": 6,
+          "Name": "Pepperdine University"
+        },
+        {
+          "Scid": 1100987,
+          "Applied": 6,
+          "Name": "McGill University"
+        },
+        {
+          "Scid": 2600038,
+          "Applied": 6,
+          "Name": "Wake Forest University"
+        },
+        {
+          "Scid": 1100408,
+          "Applied": 5,
+          "Name": "University of Denver"
+        },
+        {
+          "Scid": 1100481,
+          "Applied": 5,
+          "Name": "University of Oregon"
+        },
+        {
+          "Scid": 2800089,
+          "Applied": 5,
+          "Name": "Michigan State University"
+        },
+        {
+          "Scid": 3000566,
+          "Applied": 5,
+          "Name": "Olin College of Engineering"
+        },
+        {
+          "Scid": 6000228,
+          "Applied": 5,
+          "Name": "The University of Manchester"
+        },
+        {
+          "Scid": 8000074,
+          "Applied": 5,
+          "Name": "California Northstate University"
+        },
+        {
+          "Scid": 1100103,
+          "Applied": 4,
+          "Name": "Smith College"
+        },
+        {
+          "Scid": 1100115,
+          "Applied": 4,
+          "Name": "Rhode Island School of Design"
+        },
+        {
+          "Scid": 1100298,
+          "Applied": 4,
+          "Name": "Colgate University"
+        },
+        {
+          "Scid": 1100547,
+          "Applied": 4,
+          "Name": "Florida State University"
+        },
+        {
+          "Scid": 1100781,
+          "Applied": 4,
+          "Name": "Haverford College"
+        },
+        {
+          "Scid": 1100876,
+          "Applied": 4,
+          "Name": "University of Hawaii at Manoa"
+        },
+        {
+          "Scid": 1100922,
+          "Applied": 4,
+          "Name": "Whittier College"
+        },
+        {
+          "Scid": 2600028,
+          "Applied": 4,
+          "Name": "Virginia Commonwealth University"
+        },
+        {
+          "Scid": 2800141,
+          "Applied": 4,
+          "Name": "New Jersey Institute of Technology"
+        },
+        {
+          "Scid": 4001863,
+          "Applied": 4,
+          "Name": "Arizona State University (Polytechnic)"
+        },
+        {
+          "Scid": 1100099,
+          "Applied": 3,
+          "Name": "Skidmore College"
+        },
+        {
+          "Scid": 1100158,
+          "Applied": 3,
+          "Name": "Pratt Institute"
+        },
+        {
+          "Scid": 1100189,
+          "Applied": 3,
+          "Name": "Temple University"
+        },
+        {
+          "Scid": 1100323,
+          "Applied": 3,
+          "Name": "Mount Holyoke College"
+        },
+        {
+          "Scid": 1100373,
+          "Applied": 3,
+          "Name": "Cal Poly Humboldt"
+        },
+        {
+          "Scid": 1100423,
+          "Applied": 3,
+          "Name": "University of Utah"
+        },
+        {
+          "Scid": 1100474,
+          "Applied": 3,
+          "Name": "University of Oklahoma"
+        },
+        {
+          "Scid": 1100523,
+          "Applied": 3,
+          "Name": "Lehigh University"
+        },
+        {
+          "Scid": 1100603,
+          "Applied": 3,
+          "Name": "California State University (Bakersfield)"
+        },
+        {
+          "Scid": 1100668,
+          "Applied": 3,
+          "Name": "Oregon State University"
+        },
+        {
+          "Scid": 1100858,
+          "Applied": 3,
+          "Name": "California State University (Chico)"
+        },
+        {
+          "Scid": 2100309,
+          "Applied": 3,
+          "Name": "University of Connecticut"
+        },
+        {
+          "Scid": 2100323,
+          "Applied": 3,
+          "Name": "Hamilton College"
+        },
+        {
+          "Scid": 2400004,
+          "Applied": 3,
+          "Name": "University of Alabama at Birmingham"
+        },
+        {
+          "Scid": 2400107,
+          "Applied": 3,
+          "Name": "Florida Atlantic University"
+        },
+        {
+          "Scid": 2600103,
+          "Applied": 3,
+          "Name": "St. Andrews University"
+        },
+        {
+          "Scid": 2600163,
+          "Applied": 3,
+          "Name": "University of Colorado Denver"
+        },
+        {
+          "Scid": 2800107,
+          "Applied": 3,
+          "Name": "Macalester College"
+        },
+        {
+          "Scid": 3000310,
+          "Applied": 3,
+          "Name": "Rutgers University (Camden)"
+        },
+        {
+          "Scid": 3000400,
+          "Applied": 3,
+          "Name": "Penn State University (Abington)"
+        },
+        {
+          "Scid": 4001681,
+          "Applied": 3,
+          "Name": "Augusta University"
+        },
+        {
+          "Scid": 6000202,
+          "Applied": 3,
+          "Name": "University of Leeds"
+        },
+        {
+          "Scid": 1100165,
+          "Applied": 2,
+          "Name": "Bard College"
+        },
+        {
+          "Scid": 1100200,
+          "Applied": 2,
+          "Name": "The College of New Jersey"
+        },
+        {
+          "Scid": 1100211,
+          "Applied": 2,
+          "Name": "Union College"
+        },
+        {
+          "Scid": 1100247,
+          "Applied": 2,
+          "Name": "Washington \u0026 Jefferson College"
+        },
+        {
+          "Scid": 1100331,
+          "Applied": 2,
+          "Name": "Muhlenberg College"
+        },
+        {
+          "Scid": 1100363,
+          "Applied": 2,
+          "Name": "California State University (East Bay)"
+        },
+        {
+          "Scid": 1100388,
+          "Applied": 2,
+          "Name": "Willamette University"
+        },
+        {
+          "Scid": 1100416,
+          "Applied": 2,
+          "Name": "United States Air Force Academy"
+        },
+        {
+          "Scid": 1100456,
+          "Applied": 2,
+          "Name": "Gonzaga University"
+        },
+        {
+          "Scid": 1100458,
+          "Applied": 2,
+          "Name": "University of Nevada (Las Vegas)"
+        },
+        {
+          "Scid": 1100466,
+          "Applied": 2,
+          "Name": "Whitman College"
+        },
+        {
+          "Scid": 1100484,
+          "Applied": 2,
+          "Name": "University of Houston"
+        },
+        {
+          "Scid": 1100498,
+          "Applied": 2,
+          "Name": "Seattle University"
+        },
+        {
+          "Scid": 1100528,
+          "Applied": 2,
+          "Name": "Lafayette College"
+        },
+        {
+          "Scid": 1100538,
+          "Applied": 2,
+          "Name": "Loyola University Chicago"
+        },
+        {
+          "Scid": 1100593,
+          "Applied": 2,
+          "Name": "University of Puget Sound"
+        },
+        {
+          "Scid": 1100618,
+          "Applied": 2,
+          "Name": "Florida Institute of Technology"
+        },
+        {
+          "Scid": 1100675,
+          "Applied": 2,
+          "Name": "California Lutheran University"
+        },
+        {
+          "Scid": 1100722,
+          "Applied": 2,
+          "Name": "University of Georgia"
+        },
+        {
+          "Scid": 1100727,
+          "Applied": 2,
+          "Name": "University of Illinois at Chicago"
+        },
+        {
+          "Scid": 1100770,
+          "Applied": 2,
+          "Name": "Ithaca College"
+        },
+        {
+          "Scid": 1100958,
+          "Applied": 2,
+          "Name": "Saint Mary's College of California"
+        },
+        {
+          "Scid": 2100252,
+          "Applied": 2,
+          "Name": "Denison University"
+        },
+        {
+          "Scid": 2100253,
+          "Applied": 2,
+          "Name": "DePaul University"
+        },
+        {
+          "Scid": 2100359,
+          "Applied": 2,
+          "Name": "Emerson College"
+        },
+        {
+          "Scid": 2400006,
+          "Applied": 2,
+          "Name": "The University of Alabama"
+        },
+        {
+          "Scid": 2400066,
+          "Applied": 2,
+          "Name": "University of Central Florida"
+        },
+        {
+          "Scid": 2600043,
+          "Applied": 2,
+          "Name": "Washington and Lee University"
+        },
+        {
+          "Scid": 2600066,
+          "Applied": 2,
+          "Name": "North Carolina State University"
+        },
+        {
+          "Scid": 2600099,
+          "Applied": 2,
+          "Name": "University of Richmond"
+        },
+        {
+          "Scid": 2600118,
+          "Applied": 2,
+          "Name": "University of South Florida (Main Campus)"
+        },
+        {
+          "Scid": 2800093,
+          "Applied": 2,
+          "Name": "University of Missouri (St Louis)"
+        },
+        {
+          "Scid": 2800096,
+          "Applied": 2,
+          "Name": "Oberlin College"
+        },
+        {
+          "Scid": 2800111,
+          "Applied": 2,
+          "Name": "Purdue University Northwest"
+        },
+        {
+          "Scid": 3000468,
+          "Applied": 2,
+          "Name": "The King's College"
+        },
+        {
+          "Scid": 3000675,
+          "Applied": 2,
+          "Name": "University of Washington (Tacoma Campus)"
+        },
+        {
+          "Scid": 3000676,
+          "Applied": 2,
+          "Name": "University of Washington (Bothell Campus)"
+        },
+        {
+          "Scid": 4001849,
+          "Applied": 2,
+          "Name": "Arizona State University (West)"
+        },
+        {
+          "Scid": 6000128,
+          "Applied": 2,
+          "Name": "Sciences Po Paris"
+        },
+        {
+          "Scid": 6000160,
+          "Applied": 2,
+          "Name": "University of Auckland"
+        },
+        {
+          "Scid": 6000163,
+          "Applied": 2,
+          "Name": "Yale-NUS College"
+        },
+        {
+          "Scid": 6000206,
+          "Applied": 2,
+          "Name": "University of Birmingham"
+        },
+        {
+          "Scid": 6000210,
+          "Applied": 2,
+          "Name": "University of Bath"
+        },
+        {
+          "Scid": 6000212,
+          "Applied": 2,
+          "Name": "University of Glasgow"
+        },
+        {
+          "Scid": 6000274,
+          "Applied": 2,
+          "Name": "Duke Kunshan University"
+        },
+        {
+          "Scid": 6000385,
+          "Applied": 2,
+          "Name": "Tsinghua University"
+        },
+        {
+          "Scid": 1100006,
+          "Applied": 1,
+          "Name": "Adelphi University"
+        },
+        {
+          "Scid": 1100041,
+          "Applied": 1,
+          "Name": "St. Bonaventure University"
+        },
+        {
+          "Scid": 1100054,
+          "Applied": 1,
+          "Name": "St. John's University"
+        },
+        {
+          "Scid": 1100088,
+          "Applied": 1,
+          "Name": "Seton Hall University"
+        },
+        {
+          "Scid": 1100090,
+          "Applied": 1,
+          "Name": "Pace University (New York City)"
+        },
+        {
+          "Scid": 1100104,
+          "Applied": 1,
+          "Name": "Penn State University (Behrend)"
+        },
+        {
+          "Scid": 1100128,
+          "Applied": 1,
+          "Name": "SUNY at Albany"
+        },
+        {
+          "Scid": 1100131,
+          "Applied": 1,
+          "Name": "Binghamton University"
+        },
+        {
+          "Scid": 1100138,
+          "Applied": 1,
+          "Name": "SUNY Buffalo State University"
+        },
+        {
+          "Scid": 1100142,
+          "Applied": 1,
+          "Name": "SUNY College of Environmental Science and Forestry"
+        },
+        {
+          "Scid": 1100161,
+          "Applied": 1,
+          "Name": "SUNY at Purchase College"
+        },
+        {
+          "Scid": 1100163,
+          "Applied": 1,
+          "Name": "SUNY Polytechnic Institute"
+        },
+        {
+          "Scid": 1100176,
+          "Applied": 1,
+          "Name": "Bates College"
+        },
+        {
+          "Scid": 1100202,
+          "Applied": 1,
+          "Name": "Rosemont College"
+        },
+        {
+          "Scid": 1100203,
+          "Applied": 1,
+          "Name": "Trinity College"
+        },
+        {
+          "Scid": 1100219,
+          "Applied": 1,
+          "Name": "United States Military Academy at West Point"
+        },
+        {
+          "Scid": 1100234,
+          "Applied": 1,
+          "Name": "Bryn Mawr College"
+        },
+        {
+          "Scid": 1100235,
+          "Applied": 1,
+          "Name": "Bucknell University"
+        },
+        {
+          "Scid": 1100240,
+          "Applied": 1,
+          "Name": "University of Vermont"
+        },
+        {
+          "Scid": 1100242,
+          "Applied": 1,
+          "Name": "Villanova University"
+        },
+        {
+          "Scid": 1100255,
+          "Applied": 1,
+          "Name": "University of Massachusetts (Boston)"
+        },
+        {
+          "Scid": 1100294,
+          "Applied": 1,
+          "Name": "Clark University"
+        },
+        {
+          "Scid": 1100301,
+          "Applied": 1,
+          "Name": "The Cooper Union for the Advancement of Science and Art"
+        },
+        {
+          "Scid": 1100304,
+          "Applied": 1,
+          "Name": "Drew University"
+        },
+        {
+          "Scid": 1100340,
+          "Applied": 1,
+          "Name": "Art Center College of Design"
+        },
+        {
+          "Scid": 1100356,
+          "Applied": 1,
+          "Name": "University of Colorado (Colorado Springs)"
+        },
+        {
+          "Scid": 1100360,
+          "Applied": 1,
+          "Name": "Montana State University"
+        },
+        {
+          "Scid": 1100367,
+          "Applied": 1,
+          "Name": "Caldwell University"
+        },
+        {
+          "Scid": 1100380,
+          "Applied": 1,
+          "Name": "Colorado College"
+        },
+        {
+          "Scid": 1100415,
+          "Applied": 1,
+          "Name": "Westmont College"
+        },
+        {
+          "Scid": 1100417,
+          "Applied": 1,
+          "Name": "Durham University"
+        },
+        {
+          "Scid": 1100421,
+          "Applied": 1,
+          "Name": "University of Alaska Fairbanks"
+        },
+        {
+          "Scid": 1100433,
+          "Applied": 1,
+          "Name": "Washington State University"
+        },
+        {
+          "Scid": 1100475,
+          "Applied": 1,
+          "Name": "University of Tulsa"
+        },
+        {
+          "Scid": 1100488,
+          "Applied": 1,
+          "Name": "University of Portland"
+        },
+        {
+          "Scid": 1100514,
+          "Applied": 1,
+          "Name": "Southwestern University"
+        },
+        {
+          "Scid": 1100522,
+          "Applied": 1,
+          "Name": "Gettysburg College"
+        },
+        {
+          "Scid": 1100611,
+          "Applied": 1,
+          "Name": "Dominican University of California"
+        },
+        {
+          "Scid": 1100624,
+          "Applied": 1,
+          "Name": "College for Creative Studies"
+        },
+        {
+          "Scid": 1100633,
+          "Applied": 1,
+          "Name": "Davidson College"
+        },
+        {
+          "Scid": 1100655,
+          "Applied": 1,
+          "Name": "Texas A\u0026M University at Galveston"
+        },
+        {
+          "Scid": 1100731,
+          "Applied": 1,
+          "Name": "California College of the Arts"
+        },
+        {
+          "Scid": 1100757,
+          "Applied": 1,
+          "Name": "Illinois Institute of Technology"
+        },
+        {
+          "Scid": 1100766,
+          "Applied": 1,
+          "Name": "The Juilliard School"
+        },
+        {
+          "Scid": 1100772,
+          "Applied": 1,
+          "Name": "The New School"
+        },
+        {
+          "Scid": 1100785,
+          "Applied": 1,
+          "Name": "Howard University"
+        },
+        {
+          "Scid": 1100794,
+          "Applied": 1,
+          "Name": "Hampton University"
+        },
+        {
+          "Scid": 1100803,
+          "Applied": 1,
+          "Name": "George Mason University"
+        },
+        {
+          "Scid": 1100810,
+          "Applied": 1,
+          "Name": "University of New Mexico (Main Campus)"
+        },
+        {
+          "Scid": 1100811,
+          "Applied": 1,
+          "Name": "Louisiana State University"
+        },
+        {
+          "Scid": 1100820,
+          "Applied": 1,
+          "Name": "University of Maryland (Baltimore County)"
+        },
+        {
+          "Scid": 1100832,
+          "Applied": 1,
+          "Name": "Rowan University"
+        },
+        {
+          "Scid": 1100928,
+          "Applied": 1,
+          "Name": "Southern Methodist University"
+        },
+        {
+          "Scid": 2100202,
+          "Applied": 1,
+          "Name": "Beloit College"
+        },
+        {
+          "Scid": 2100292,
+          "Applied": 1,
+          "Name": "Northwestern College"
+        },
+        {
+          "Scid": 2100313,
+          "Applied": 1,
+          "Name": "CUNY City College"
+        },
+        {
+          "Scid": 2100341,
+          "Applied": 1,
+          "Name": "The New England Conservatory of Music"
+        },
+        {
+          "Scid": 2100372,
+          "Applied": 1,
+          "Name": "Augustana College"
+        },
+        {
+          "Scid": 2400074,
+          "Applied": 1,
+          "Name": "Clemson University"
+        },
+        {
+          "Scid": 2600079,
+          "Applied": 1,
+          "Name": "Nova Southeastern University"
+        },
+        {
+          "Scid": 2600098,
+          "Applied": 1,
+          "Name": "Rhodes College"
+        },
+        {
+          "Scid": 2600105,
+          "Applied": 1,
+          "Name": "St. John's College (Annapolis)"
+        },
+        {
+          "Scid": 2600114,
+          "Applied": 1,
+          "Name": "University of South Alabama"
+        },
+        {
+          "Scid": 2600130,
+          "Applied": 1,
+          "Name": "Spelman College"
+        },
+        {
+          "Scid": 2600142,
+          "Applied": 1,
+          "Name": "University of Delaware"
+        },
+        {
+          "Scid": 2800030,
+          "Applied": 1,
+          "Name": "Webster University"
+        },
+        {
+          "Scid": 2800031,
+          "Applied": 1,
+          "Name": "Wayne State University"
+        },
+        {
+          "Scid": 2800045,
+          "Applied": 1,
+          "Name": "University of Toledo"
+        },
+        {
+          "Scid": 2800071,
+          "Applied": 1,
+          "Name": "St. Olaf College"
+        },
+        {
+          "Scid": 2800081,
+          "Applied": 1,
+          "Name": "Lawrence University"
+        },
+        {
+          "Scid": 2800085,
+          "Applied": 1,
+          "Name": "University of Iowa"
+        },
+        {
+          "Scid": 2800088,
+          "Applied": 1,
+          "Name": "Milwaukee School of Engineering"
+        },
+        {
+          "Scid": 2800090,
+          "Applied": 1,
+          "Name": "University of Missouri (Columbia)"
+        },
+        {
+          "Scid": 2800102,
+          "Applied": 1,
+          "Name": "Iowa State University"
+        },
+        {
+          "Scid": 2800160,
+          "Applied": 1,
+          "Name": "Purdue University Fort Wayne"
+        },
+        {
+          "Scid": 3000090,
+          "Applied": 1,
+          "Name": "Champlain College"
+        },
+        {
+          "Scid": 3000459,
+          "Applied": 1,
+          "Name": "California State University (Monterey Bay)"
+        },
+        {
+          "Scid": 3000495,
+          "Applied": 1,
+          "Name": "Trinity College Dublin"
+        },
+        {
+          "Scid": 3000497,
+          "Applied": 1,
+          "Name": "The Chinese University of Hong Kong"
+        },
+        {
+          "Scid": 4000870,
+          "Applied": 1,
+          "Name": "Parsons Paris at The New School"
+        },
+        {
+          "Scid": 4001653,
+          "Applied": 1,
+          "Name": "University of Kent"
+        },
+        {
+          "Scid": 4001877,
+          "Applied": 1,
+          "Name": "Arizona State University (Downtown Phoenix)"
+        },
+        {
+          "Scid": 5000134,
+          "Applied": 1,
+          "Name": "University of Connecticut (Stamford)"
+        },
+        {
+          "Scid": 5000167,
+          "Applied": 1,
+          "Name": "University of South Florida (St Petersburg)"
+        },
+        {
+          "Scid": 5000346,
+          "Applied": 1,
+          "Name": "Oregon State University - Cascades"
+        },
+        {
+          "Scid": 6000193,
+          "Applied": 1,
+          "Name": "Kingston University London"
+        },
+        {
+          "Scid": 6000204,
+          "Applied": 1,
+          "Name": "University of Liverpool"
+        },
+        {
+          "Scid": 6000211,
+          "Applied": 1,
+          "Name": "University of Dundee"
+        },
+        {
+          "Scid": 6000219,
+          "Applied": 1,
+          "Name": "University of Southampton"
+        },
+        {
+          "Scid": 6000221,
+          "Applied": 1,
+          "Name": "University of Aberdeen"
+        },
+        {
+          "Scid": 6000225,
+          "Applied": 1,
+          "Name": "University of Bristol"
+        },
+        {
+          "Scid": 6000276,
+          "Applied": 1,
+          "Name": "University of Groningen"
+        },
+        {
+          "Scid": 6000376,
+          "Applied": 1,
+          "Name": "University of Toronto Mississauga"
+        },
+        {
+          "Scid": 6000377,
+          "Applied": 1,
+          "Name": "University of Toronto Scarborough"
+        },
+        {
+          "Scid": 6000389,
+          "Applied": 1,
+          "Name": "City University of London"
+        },
+        {
+          "Scid": 7000257,
+          "Applied": 1,
+          "Name": "Ohlone College"
+        },
+        {
+          "Scid": 8000201,
+          "Applied": 1,
+          "Name": "National University of Singapore"
+        },
+        {
+          "Scid": 8000390,
+          "Applied": 1,
+          "Name": "Wageningen University and Research"
+        }
+      ]
+    }
