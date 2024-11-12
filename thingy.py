@@ -17,10 +17,10 @@ def get_results(major, school):
             st.write(f"Percentage {len(accepted_applicants) / len(major_applicants)}")
         # st.write([a["CounselorName"] for a in accepted_applicants])
 
-st.title("Sandwich Stats")
-st.write("Made by Michael, Derek, and Karthik - BISV College Applicants (2023-2024)")
+st.title("Sandwich Stats - Results of BISV College Applicants (2023-2024)")
+st.write("Made by Michael, Derek, and Karthik")
 major = st.text_input("Major", value="Computer Science")
-school = st.text_input("School", value="Berkeley")
+school = st.text_input("School", value="Los Angeles")
 
 if st.button("Get Results"):
     get_results(major, school)
