@@ -25,10 +25,13 @@ def get_results(major, school, year):
     req = urllib.request.Request(URL, headers=headers)
     with urllib.request.urlopen(req) as response:
         data2 = json.loads(response.read())["Applications"]
-        # print(data2)
-        major_applicants = [a for a in data2 if major in a["Major"] and a["GraduationYear"] == year]
-        # print(major_applicants)
-        accepted_applicants = [a for a in major_applicants if a.get("Accepted", False) == True]
+        
+        if year <= 2019:
+            major_applicants = [a for a in data2 if major in a["Major"] and a["GraduationYear"] == year]
+            accepted_applicants = [a for a in major_applicants if a.get("ResultCode") == "Accepted"]
+        else:
+            major_applicants = [a for a in data2 if major in a["Major"] and a["GraduationYear"] == year]
+            accepted_applicants = [a for a in major_applicants if a.get("Accepted", False) == True]
         
         st.write(f"Number of applicants who applied to that major: {len(major_applicants)}")
         st.write(f"Number of those accepted: {len(accepted_applicants)}")
@@ -40,7 +43,7 @@ def get_results(major, school, year):
 
 
 st.title("Sandwich Stats")
-st.write("Made by Michael, Derek, and Karthik - BISV College Applicants (2023-2024)")
+st.write("Made by Michael, Derek, and Karthik - BISV College Applicants (2016-2024)")
 major = st.text_input("Major", value="Computer Science")
 school = st.text_input("School", value="Berkeley")
 year = st.number_input("Year", value=2024)
