@@ -30,13 +30,13 @@ def get_results(major, school, year):
         # print(major_applicants)
         accepted_applicants = [a for a in major_applicants if a.get("Accepted", False) == True]
         
-        st.writeprint(f"Number of applicants who applied to that major: {len(major_applicants)}")
-        st.writeprint(f"Number of those accepted: {len(accepted_applicants)}")
+        st.write(f"Number of applicants who applied to that major: {len(major_applicants)}")
+        st.write(f"Number of those accepted: {len(accepted_applicants)}")
         if(len(accepted_applicants) > 0):
             avg_un = sum(float(a.get("UnweightedGPA", 0)) for a in accepted_applicants) / len(accepted_applicants)
             avg_w = sum(float(a.get("WeightedGPA", 0)) for a in accepted_applicants) / len(accepted_applicants)
-            st.writeprint(f"Average GPA {avg_un}/{avg_w}")
-            st.writeprint(f"Percentage {len(accepted_applicants) / len(major_applicants)}")
+            st.write(f"Average GPA {avg_un}/{avg_w}")
+            st.write(f"Percentage {len(accepted_applicants) / len(major_applicants)}")
 
 
 st.title("Sandwich Stats")
