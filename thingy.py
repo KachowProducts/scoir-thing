@@ -11,6 +11,9 @@ def get_results(major, school):
         st.write(f"Number of applicants who applied to that major: {len(major_applicants)}")
         st.write(f"Number of those accepted: {len(accepted_applicants)}")
         if(len(accepted_applicants) > 0):
+            avg_un = sum(float(a.get("UnweightedGPA", 0)) for a in accepted_applicants) / len(accepted_applicants)
+            avg_w = sum(float(a.get("WeightedGPA", 0)) for a in accepted_applicants) / len(accepted_applicants)
+            st.write(f"Average GPA {avg_un}/{avg_w}")
             st.write(f"Percentage {len(accepted_applicants) / len(major_applicants)}")
         # st.write([a["CounselorName"] for a in accepted_applicants])
 
@@ -21,4 +24,3 @@ school = st.text_input("School", value="Berkeley")
 
 if st.button("Get Results"):
     get_results(major, school)
-
