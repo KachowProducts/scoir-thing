@@ -43,7 +43,7 @@ def get_results(major, school, year):
 
 
 st.title("Sandwich Stats")
-st.write("Made by Michael, Derek, and Karthik - BISV College Applicants (2016-2024)")
+st.write("Made by Michael, Derek, and Karthik - BISV College Applicants (2021-2024)")
 major = st.text_input("Major", value="Computer Science")
 school = st.text_input("School", value="Berkeley")
 year = st.number_input("Year", value=2024)
