@@ -10,7 +10,7 @@ st.write(
 )
 
 headers = {
-    "Authorization": f"Bearer {st.secrets["TOKEN"]}"
+    "Authorization": f"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJFbWFpbCI6ImthcnNhYjM0M0BnbWFpbC5jb20iLCJGaXJzdE5hbWUiOiJLYXJ0aGlrIiwiSXNTaGFkb3ciOmZhbHNlLCJMYXN0TmFtZSI6IlNhYmhhbmF5YWthbSIsIl9pZCI6IjYxMTU0Nzg2MTQ2NzBjMDAwMTY3YjM5YyIsImV4cCI6MTczMTcwMjAwOCwianRpIjoiYjFkZGFiZjktYzFhNi00YmYwLWFjMjktODQzOGZhMWY3ZTVjIn0.vLhznXErGDxckeeaI6IUe8Kow041roW4AsUVrcKKce0"
 }
 # with open("Applications.json", "r") as file:
 #     data = json.load(file)
