@@ -17,7 +17,7 @@ st.title("Sandwich Stats")
 st.write("Made by Michael, Derek, and Karthik - BISV College Applicants (2016-2024)")
 major = st.text_input("Major", value="Computer Science")
 school = st.text_input("School", value="Berkeley")
-year = st.text_input("Year", value="2024")
+year = st.text_input("Since Year", value="2024")
 
 if st.button("Get Results"):
     get_results(major, school, year)
