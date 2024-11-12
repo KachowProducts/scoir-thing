@@ -10,7 +10,8 @@ def get_results(major, school):
 
         st.write(f"Number of applicants who applied to that major: {len(major_applicants)}")
         st.write(f"Number of those accepted: {len(accepted_applicants)}")
-        st.write(f"Percentage {len(accepted_applicants) / len(major_applicants)}")
+        if(len(accepted_applicants > 0):
+            st.write(f"Percentage {len(accepted_applicants) / len(major_applicants)}")
         # st.write([a["CounselorName"] for a in accepted_applicants])
 
 st.title("Sandwich Stats")
