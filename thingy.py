@@ -7,11 +7,11 @@ def get_results(major, school, year):
     
     if year <= 2020:
         st.warning("We can't search by major prior to 2021 - it's not available to us.")
-        major_applicants = [a for a in data if school in a["SchoolName"] and year == a["GraduationYear"]]
+        major_applicants = [a for a in data if school.lower() in a["SchoolName"].lower() and year == a["GraduationYear"]]
         accepted_applicants = [a for a in major_applicants if a.get("Accepted", False) == True]
         st.write(f"Number of applicants who applied to that school: {len(major_applicants)}")
     else: 
-        major_applicants = [a for a in data if major in a["Major"] and school in a["SchoolName"] and a["GraduationYear"] == year]
+        major_applicants = [a for a in data if major.lower() in a["Major"].lower() and school.lower() in a["SchoolName"].lower() and a["GraduationYear"] == year]
         accepted_applicants = [a for a in major_applicants if a.get("Accepted", False) == True]
         st.write(f"Number of applicants who applied to that major: {len(major_applicants)}")
     
