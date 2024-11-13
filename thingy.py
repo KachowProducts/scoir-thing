@@ -2,7 +2,7 @@ import json
 import streamlit as st
 
 def get_results(major, school, year):
-    with open('full.json', 'r') as file:
+    with open('Full.json', 'r') as file:
         data = json.load(file)[0]["Applications"]
     
     if year <= 2020:
@@ -23,9 +23,9 @@ def get_results(major, school, year):
         st.write(f"Percentage {round(len(accepted_applicants) / len(major_applicants), 2)}")
 
 st.title("Sandwich Stats")
-st.write("Made by Michael, Derek, and Karthik - A tool to view the results of BISV College Applicants (2016-2024)")
+st.write("Made by Michael, Derek, and Karthik '25 - A bad tool to view the results of BISV College Applicants (2016-2024)")
 major = st.text_input("Major", value="Computer Science")
 school = st.text_input("School", value="Berkeley")
-year = st.number_input("Year", value=2024)
+year = st.number_input("Year", min_value=2016, max_value=2024, value="max")
 if st.button("Get Results"):
     get_results(major, school, year)
