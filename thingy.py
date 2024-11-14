@@ -24,7 +24,7 @@ def get_results(major, school, year):
 
 st.title("Sandwich Stats")
 st.write("Made by Michael, Derek, and Karthik '25 - A bad tool to view results of BISV college applicants (2016-2024)")
-st.image("https://docs.google.com/spreadsheets/d/e/2PACX-1vTlGm3DZSgikym6vMsWdWSfD8hAm5SKA175krD-CQllm7xTqLmemF7nifXXmkdo-byZlI7UQsQy0bBc/pubchart?oid=728616390&format=interactive", caption="The colleges we go to", width=700)
+st.image("maps.png", caption="The colleges we go to", width=700)
 major = st.text_input("Major", value="Computer Science")
 school = st.text_input("School", value="Berkeley")
 year = st.number_input("Year", min_value=2016, max_value=2024, value=2024)
